@@ -1,0 +1,58 @@
+body {
+    font-family: 'Comic Sans MS', sans-serif;
+    background-color: white;
+    color: black;
+    transition: background 0.3s, color 0.3s;
+}
+.dark-mode {
+    background-color: black;
+    color: white;
+}
+.red {
+    color: #ff0026;
+}
+.light_red {
+    color: #ff556e;
+}
+.orange {
+    color: #ff4400;
+}
+.light_orange {
+    color: #ff8255;
+}
+.yellow {
+    color: #ffc400;
+}
+.light_yellow {
+    color: #ffd755;
+}
+.green {
+    color: #00ff84;
+}
+.light_green {
+    color: #55ffad;
+}
+.blue {
+    color: #0051ff;
+}
+.light_blue {
+    color: #558bff;
+}
+.purple {
+    color: #5900ff;
+}
+.light_purple {
+    color: #9155ff;
+}
+.pink {
+    color: #ff0051;
+}
+.light_pink {
+    color: #ff558b;
+}
+.black {
+    color: #000000;
+}
+.white {
+    color: #ffffff;
+}
