@@ -10,8 +10,10 @@ toggleButton.addEventListener("click", function () {
     if (body.classList.contains("dark-mode")) {
         toggleButton.src = "assets/sun.svg";
         localStorage.setItem("theme", "dark");
+        console.log("ouch")
     } else {
         toggleButton.src = "assets/moon.svg";
         localStorage.setItem("theme", "light");
+        console.log("ouch")
     }
 });
